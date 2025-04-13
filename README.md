@@ -1,6 +1,7 @@
-# Logical DB-MYSQL Project
+# Creating a Logical DB-MYSQL Project from Scratch
 CREATING A LOGICAL MYSQL DATABASE PROJECT
 ## Database for 'ecommerce'
+*** OBS: Estou no ultimo dia e não conseguiria terminar o Bootcamp se tivesse que criar so Zero um Bd. Estou replicando o projeto do desafio, mas criarei do zero e atualizarei esse projeto de agora. s2
 # EER MODEL:
 
 ![Modelo EER](https://github.com/user-attachments/assets/404c0606-d4d1-4602-b3da-a85922d01dd5)
